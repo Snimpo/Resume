@@ -1,1 +1,20 @@
+*{
+        background-color: rgb(240, 221, 197);
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(233, 162, 55)
+}
+h2{
+    text-align: center;
+    background-color: rgb(233, 162, 55);
+}
+#bio{
+    text-align:justify;
+    padding: 3%;
+}
+hr{
+    font-weight: 900;
+}
 
